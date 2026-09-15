@@ -1,0 +1,6 @@
+{
+  "name": "ماركتي | Markety",
+  "description": "تطبيق Android Native لإدارة السوبر ماركت والمخزون والأصناف باستخدام Kotlin و Jetpack Compose و Room Database",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
